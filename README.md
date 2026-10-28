@@ -42,6 +42,7 @@ Generate videos from text descriptions/prompts.
 | **Google Veo** | Google DeepMind's video generation, integrated with Vertex AI | Limited access | [deepmind.google](https://deepmind.google/technologies/veo/) |
 
 ### Image-to-Video
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 Animate still images into video clips.
 
